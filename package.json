@@ -14,7 +14,9 @@
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.2"
+    "expres": "^0.0.5",
+    "express": "^4.21.2",
+    "redis": "^4.7.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
